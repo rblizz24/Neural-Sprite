@@ -55,7 +55,7 @@ To build the conventional Windows installer, install Inno Setup 6 from the offic
 
 https://jrsoftware.org/isdl.php
 
-**Note:** The build process must run on Windows. The source ZIP does not include a prebuilt Windows executable.
+**Note:** The build process must run on Windows. The source ZIP does not include a prebuilt Windows executable. You can find this in the latest release.
 
 ## AI Tools
 
